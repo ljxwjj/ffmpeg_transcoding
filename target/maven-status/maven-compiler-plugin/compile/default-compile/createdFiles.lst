@@ -1,0 +1,7 @@
+com\demo\Application.class
+com\demo\ffmpeg\MediaInfo$Format.class
+com\demo\ffmpeg\FFmpegUtils.class
+com\demo\ffmpeg\MediaInfo.class
+com\demo\ffmpeg\MediaInfo$Stream.class
+com\demo\ffmpeg\TranscodeConfig.class
+com\demo\web\controller\UploadController.class
